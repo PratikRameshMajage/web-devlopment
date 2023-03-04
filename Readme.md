@@ -1,3 +1,8 @@
+Hello guys i am learning a frontend web devlopment from scratch....
+I am also learning git for version control system
+
+
+//////////!!!!!!!COMMANDS!!!!!!//////////
 git --version
 git config --global user.name "w3schools-test"
 git config --global user.email "test@w3schools.com"
